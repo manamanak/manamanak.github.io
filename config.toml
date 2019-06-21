@@ -1,4 +1,7 @@
 baseURL = "https://manamanak.netlify.com/"
-languageCode = "ja-JP"
+languageCode = "ja-jp"
+hasCJKLanguage = true
+canonifyurls = true
 title = "manamanak site"
-theme = "forty"
+author = "manamanak"
+theme = "robust"
